@@ -1,7 +1,8 @@
 # PDF-Coloring-Assistant
 
 ```
-pip install pdf2image pillow python-poppler
+pip install pdf2image pillow
+pip install --use-pep517 python-poppler
 ```
 
 Automatically identify the number of PDF color and black and white pages in the current directory.
